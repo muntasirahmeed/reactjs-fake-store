@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './Menubar.css'
 
 const Menubar = (props) => {
-    console.log(props)
     return (
         <div >
             <dir className='item-container mt-0'>
